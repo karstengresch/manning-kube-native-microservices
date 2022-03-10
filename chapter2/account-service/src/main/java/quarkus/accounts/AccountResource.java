@@ -1,7 +1,6 @@
 package quarkus.accounts;
 
 import javax.annotation.PostConstruct;
-import javax.enterprise.context.ApplicationScoped;
 import javax.json.Json;
 import javax.json.JsonObjectBuilder;
 import javax.ws.rs.*;
